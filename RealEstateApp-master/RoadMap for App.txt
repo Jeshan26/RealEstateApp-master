@@ -1,0 +1,10 @@
+1) All Ads - view - MainActivity
+
+2) Upload your Ads - view
+
+3) Your Ads - In this you can delete the Ads - view
+
+4) logout functionality - which redirect cx to login
+
+
+

@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "23104031884",
+    "firebase_url": "https://realestateapp-195bc-default-rtdb.firebaseio.com",
+    "project_id": "realestateapp-195bc",
+    "storage_bucket": "realestateapp-195bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23104031884:android:014682c2688f60ca8a7fa9",
+        "android_client_info": {
+          "package_name": "com.GC200419191.realestateapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "23104031884-bortgemcd75h15jb1d38dv0jl3phpikd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.GC200419191.realestateapp",
+            "certificate_hash": "63ced2c781f526d87eeca9a914243772cd5bf5bf"
+          }
+        },
+        {
+          "client_id": "23104031884-ab172l2fq43mehrhdq6anq3lnnua0n2m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9Psiz40md7Q8LbA7vxopgLsR-siD2Cis"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "23104031884-ab172l2fq43mehrhdq6anq3lnnua0n2m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23104031884:android:3f5c243145fd37c48a7fa9",
+        "android_client_info": {
+          "package_name": "com.example.realestateapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "23104031884-sm354s4f5f21dpihoi2p6une39rre8ti.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.realestateapp",
+            "certificate_hash": "63ced2c781f526d87eeca9a914243772cd5bf5bf"
+          }
+        },
+        {
+          "client_id": "23104031884-ab172l2fq43mehrhdq6anq3lnnua0n2m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9Psiz40md7Q8LbA7vxopgLsR-siD2Cis"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "23104031884-ab172l2fq43mehrhdq6anq3lnnua0n2m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

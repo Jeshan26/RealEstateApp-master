@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+   xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/ic_home"
+        android:title="Home"
+        android:icon="@drawable/ic_baseline_home_24"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/action_profile"
+        android:icon="@drawable/ic_baseline_account_box_24"
+        android:title="View Profile"
+        app:showAsAction="ifRoom"/>
+
+    <item
+    android:id="@+id/ic_create"
+    android:title="Create"
+    android:icon="@drawable/ic_baseline_create_24"
+        app:showAsAction="ifRoom"/>
+
+</menu>
